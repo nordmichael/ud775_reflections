@@ -1,7 +1,8 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
-  Need to add files that we want tracked, and make the first commit 
+  Need to add files that we want tracked, and make the first commit
 
 Q: How is the staging area different from the working directory and the repository?
+  Staging area seems to allow us to make changes to things logically, and then mark them for the next commit. 
 Q: What value do you think it offers?
 
 Q: How can you use the staging area to make sure you have one commit per logical
