@@ -4,6 +4,7 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 Q: How is the staging area different from the working directory and the repository?
   Staging area seems to allow us to make changes to things logically, and then mark them for the next commit.
 Q: What value do you think it offers?
+  Staging area allows users to choose what to edit and add, and when to add it 
 
 Q: How can you use the staging area to make sure you have one commit per logical
 change?
