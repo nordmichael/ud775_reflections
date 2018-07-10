@@ -5,5 +5,13 @@ Describe the differences between forks, clones, and branches. When would you use
   Clone duplicates a repo locally or from remote to local source with original reference to the remote systems
   Branch splits out a section of code for editing, usually locally
 
-  What is the benefit of having a copy of the last known state of the remote stored locally?
-    Can work offline to resolve any conflicts or merges, and then commit them online once you're done. 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    Can work offline to resolve any conflicts or merges, and then commit them online once you're done.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    Both are related, I think using GitHub will simplify collaboration by providing a distribution repo to
+    work from without having to send files back and forth etc. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    Other Branch can be used when you want to keep track of changes that might not make it into the master
+    Or you're a part of a collaboration working on many changes, and you need to update and edit.
