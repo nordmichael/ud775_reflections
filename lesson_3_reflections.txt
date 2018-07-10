@@ -1,1 +1,7 @@
-#This is lesson 3, I think it is swell? 
+#This is lesson 3, I think it is swell?
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks Exist on git-hub, basically a clone on their server
+  Clone duplicates a repo locally or from remote to local source with original reference to the remote systems
+  Branch splits out a section of code for editing, usually locally
+  
